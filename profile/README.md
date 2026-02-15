@@ -96,7 +96,9 @@ Full-featured accounting system built specifically for smartphone repair busines
 
 ## Support
 
-For questions, issues, or feature requests, please open an issue on GitHub or email `hardwaregore101@gmail.com`.
+Submit bug reports at: https://hardwaregore.atlassian.net/jira/software/form/b3dc6dc7-d6e1-4bbb-8424-009aef0be837
+
+For other inquiries, email `hardwaregore101@gmail.com`.
 
 ---
 
