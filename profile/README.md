@@ -11,7 +11,7 @@ RepairBooks will (hopefully) follow the following release schedule:
 
 - [ ] Beta Testing: Sunday June 7th, 2026
 
-- [ ] Public Release: Sunday July 7th, 2026
+- [ ] Public Release: Monday July 6th, 2026
 
 ## Overview
 
