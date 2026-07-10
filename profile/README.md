@@ -9,45 +9,43 @@
 
 RepairBooks will (hopefully) follow the following release schedule:
 
-- [ ] Beta Testing: Sunday June 7th, 2026
+- [ ] Beta Testing: Friday July 31st, 2026
 
-- [ ] Public Release: Monday July 6th, 2026
+- [ ] Public Release: **Some time in the future...**
 
 ## Overview
 
-RepairBooks is an intelligent business automation platform designed for smartphone repair technitions. It combines automated marketplace scraping, AI-driven decision making, automated purchasing, and comprehensive business management tools to streamline the process of finding, acquiring, repairing, and managing smartphone inventory.
+RepairBooks is a smart business automation platform designed for phone repair technitions. It combines automated marketplace scraping, AI powered categorization, assisted negotiation, and comprehensive business management tools to simplify the process of running a repair shop or phone flipping operation.
 
 ## Key Features
 
-### 🔍 Automated Marketplace Scraping
+### Automated Marketplace Scraping
 
-RepairBooks automatically monitors and scrapes multiple online marketplaces for damaged smartphones:
+RepairBooks automatically monitors and scrapes multiple online marketplaces for damaged or undervalued smartphones:
 
 - **Facebook Marketplace Integration**: Continuously scans listings for damaged smartphones in your target area
-- **Craigslist Support**: Automated scraping of Craigslist postings across multiple cities and categories
-- **eBay Monitoring**: Utilizes eBay's official Developer API to track auction and BIN listings for market analysis
+- **eBay Monitoring**: Uses the eBay API to track lowest BIN prices for specified phone models
 - **Real-time Updates**: Monitors new listings as they appear to ensure you never miss an opportunity
-- **Ethical Scraping**: Respects robots.txt files and rate limits, uses official APIs where available
 
-### 🤖 AI-Powered Device Evaluation
+### AI-Powered Device Evaluation
 
-An intelligent AI agent analyzes scraped data to determine device viability:
+An AI agent analyzes scraped data to determine device viability:
 
 - **Profitability Analysis**: Evaluates repair costs vs. potential resale value
 - **Damage Assessment**: Determines the extent of damage and required repairs from listing descriptions and photos
-- **Market Value Prediction**: Estimates post-repair value based on current market conditions
-- **ROI Calculation**: Computes expected return on investment for each device
+- **Market Value Prediction**: Estimates the value of repaired smartphones based on the market prices
+- **Seller Creditability**: Determines the reputation of a seller based on their past activity
 - **Automated Decision Making**: Instantly flags devices worth purchasing based on configurable profit thresholds
 
-### 💬 Automatic Purchase & Communication
+### Automatic Purchase & Communication
 
 When a profitable opportunity is identified, RepairBooks automates the transaction process:
 
-- **Intelligent Seller Communication**: AI-based messaging to instantly buy profitable devices within minutes of posting
+- **Intelligent Seller Communication**: AI based messaging to instantly buy profitable devices within minutes of posting
 - **Negotiation Support**: Provides price negotiation recommendations within defined parameters
-- **Multi-Platform Support**: Designed to work across Facebook Marketplace, Craigslist, and eBay
+- **Scam Detection**: Automatically stops all communication when a potential scam is discovered
 
-### 📦 Inventory Management
+### Inventory Management
 
 Comprehensive inventory tracking system for your smartphone repair business:
 
@@ -57,20 +55,18 @@ Comprehensive inventory tracking system for your smartphone repair business:
 - **Cost Tracking**: Record all expenses associated with each device (purchase price, parts, labor)
 - **Resale Management**: Track listing status and final sale prices
 
-### 💰 Integrated Accounting & Invoicing
+### Advanced Accounting
 
-Full-featured accounting system built specifically for smartphone repair businesses:
+Full double entry accounting system built specifically for smartphone repair businesses:
 
 - **Automated Invoice Generation**: Create professional invoices for device sales
 - **Expense Tracking**: Record and categorize all business expenses
-- **Profit & Loss Reports**: Real-time financial reporting and analytics
-- **Tax Preparation**: Organize financial data for easy tax filing
-- **Payment Processing**: Track payments and outstanding balances
-- **Financial Forecasting**: Predict cash flow and profitability trends
+- **Document Generations**: Automatically create finacial documents (Balance Sheet, Income Statement, etc...)
+- **Advanced Features**: More advanced accounting features are coming soon
 
 ## Business Workflow
 
-1. **Discovery**: Continuously scrapes marketplaces for broken smartphones
+1. **Discovery**: Continuously scrapes marketplaces for broken or undervalued smartphones
 2. **Analysis**: Evaluates each device for repair viability and profit potential
 3. **Acquisition**: Assists with seller contact and purchase workflow with required human approval
 4. **Inventory**: Tracks devices through the repair process
@@ -79,27 +75,31 @@ Full-featured accounting system built specifically for smartphone repair busines
 
 ## Benefits
 
-- ⚡ **Speed**: Never miss a profitable opportunity with real-time monitoring
-- 🎯 **Precision**: AI-driven analysis eliminates guesswork in device evaluation
-- 💼 **Professional**: Comprehensive business management in one platform
-- 📈 **Scalable**: Handle growing inventory without additional overhead
+- **Speed**: Never miss a profitable opportunity with real-time monitoring
+- **Precision**: AI-driven analysis eliminates guesswork in device evaluation
+- **Professional**: Comprehensive business management in one platform
+- **Scalable**: Handle growing inventory without additional overhead
 
 ## Getting Started
 
-*Work in Progress...*
+> RepairBooks is not (and will not be) open source. All development progress is stored in private repositories.
 
-> Note that all of our current work is stored in private repositories 
+RepairBooks is under development. When beta testing becomes avaliable, you can visit [Our Website](https://repairbooks.app) to get started.
 
 ## License
 
-*Work in Progress...*
+> This page is currently not avaliable.
+
+You can view our EULA on our [website](http://repairbooks.app/legal/eula)
 
 ## Support
 
-Submit bug reports at: https://hardwaregore.atlassian.net/jira/software/form/b3dc6dc7-d6e1-4bbb-8424-009aef0be837
+> This page is currently not avaliable.
 
-For other inquiries, email `hardwaregore101@gmail.com`.
+Submit bug reports on our [website](https://repairbooks.app/support)
+
+For other inquiries, email `support@repairbooks.app`.
 
 ---
 
-> Documentation and Wiki for RepairBooks was written by `Google Gemini 3 Pro`
+> Documentation and Wiki for RepairBooks was written by `Claude Fable 5`
